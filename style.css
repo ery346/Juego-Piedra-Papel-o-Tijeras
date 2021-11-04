@@ -1,0 +1,45 @@
+body{
+    height: 860px;
+    background-image:linear-gradient( #f5ba18a5 15%, #183d7d92 100%);
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 290px;
+    
+}
+#titulo {
+    background-color:rgba(28, 125, 243, 0.265);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-align: center;
+}
+.container1{
+    display: flex;
+    align-items: baseline;
+    height: 50px;
+    margin-right: 110px;
+    margin-left: 60px;
+    font-size: small;
+    
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+    width: 500px;
+}
+.vs{
+
+    height: 5px;
+}
+section2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.miseleccion{
+    
+    text-align: center;
+    width: 20rem;
+}
